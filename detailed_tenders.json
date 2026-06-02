@@ -1,0 +1,1942 @@
+[
+  {
+    "item": {
+      "id": "19273040faa4ca24ebf0456722b955bfb5c6bcf3f26e3ca0efdf179fccf32be5",
+      "ikn": "2026/721669",
+      "ihaleAdi": "Hatay İli, Antakya İlçesi Tapu ve Kadastro Hizmet Binası İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "28188",
+        "523740",
+        "193984",
+        "381007",
+        "438461",
+        "537286",
+        "36140",
+        "619985"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "95474a8d43a5002de9f03c52f7b938ce513adda1ce8c7ecc70041ec6614883d7",
+        "ihaleAdi": "Hatay İli, Antakya İlçesi Tapu ve Kadastro Hizmet Binası İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/721669",
+        "iknYil": "2026",
+        "iknSayi": "721669",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "30.04.2026 16:00",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 B)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Hatay",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "30.04.2026 16:00"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "30.04.2026 10:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7423385",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "f62f2759d14877603809987717ac68865469f78ae30204dee7297f7a52f157bf",
+          "sozlesmeId": "13244288",
+          "baslik": "HATAY İLİ, ANTAKYA İLÇESİ TAPU VE KADASTRO HİZMET BİNASI İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-05-25T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>HATAY İLİ, ANTAKYA İLÇESİ TAPU VE KADASTRO HİZMET BİNASI İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/721669</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>30.04.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 B)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya yapım tekniği açısından özellik arz eden \n                                                veya yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare \n                                                tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>434.569.177,73\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>HATAY İLİ, ANTAKYA İLÇESİ TAPU VE KADASTRO HİZMET BİNASI İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Hatay</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>300</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">7</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">7</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>7</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>21.05.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">395.000.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>26.05.2026 - 21.03.2027</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">YDS İNŞAAT NAKLİYAT MADENCİLİK TAAHHÜT İTHALAT İHRACAT PETROL ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">TALAYTEPE MAH. 4003. SK. NO: 4A İÇ KAPI NO: 44 KAYAPINAR / DİYARBAKIR KAYAPINAR/DİYARBAKIR</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "YDS İNŞAAT NAKLİYAT MADENCİLİK TAAHHÜT İTHALAT İHRACAT PETROL ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13244288",
+          "ihaleId": "081f954358d59c6f6678f50836f5cbd5d5f014b5cf6e89f81762e6aeeedc92f0",
+          "yukleniciAdi": "YDS İNŞAAT NAKLİYAT MADENCİLİK TAAHHÜT İTHALAT İHRACAT PETROL ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+          "sozlesmeBedeli": "395,000,000.00 TRY",
+          "sozlesmeTarih": "2026-05-21T00:00:00+03:00",
+          "enYuksekTeklif": "467,000,000.00 TRY",
+          "enDusukTeklif": "395,000,000.00 TRY",
+          "yaklasikMaliyet": "434.569.177,73 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/721669",
+            "ihaleAdi": "Hatay İli, Antakya İlçesi Tapu ve Kadastro Hizmet Binası İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-05-21T00:00:00",
+            "sozlesmeBedeli": "395,000,000.00 TRY",
+            "yuklenici": "YDS İNŞAAT NAKLİYAT MADENCİLİK TAAHHÜT İTHALAT İHRACAT PETROL ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "49763123",
+                "kisimAdi": "Hatay İli, Antakya İlçesi Tapu ve Kadastro Hizmet Binası İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+                "enYuksekTeklif": "467.000.000,00 TRY",
+                "enDusukTeklif": "395.000.000,00 TRY",
+                "yaklasikMaliyet": "434.569.177,73 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 434569177.73
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "30a734c63699dc4bbd555b3f8c66927a1f02da73d396ba792129d47cc879615f",
+      "ikn": "2026/727335",
+      "ihaleAdi": "İstanbul İli Beşiktaş İlçesi Ortaköy Mahallesi Jandarma Genel Komutanlığı Balmumcu Sosyal Tesis İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "553731",
+        "142042",
+        "922479",
+        "22941",
+        "440421",
+        "978364",
+        "862490",
+        "24309",
+        "121184"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "2b718eab1559234f86868f13542d3531c69f6966104cd045fd05c2200eb37436",
+        "ihaleAdi": "İstanbul İli Beşiktaş İlçesi Ortaköy Mahallesi Jandarma Genel Komutanlığı Balmumcu Sosyal Tesis İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/727335",
+        "iknYil": "2026",
+        "iknSayi": "727335",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "29.04.2026 16:30",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 C)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "İstanbul",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "29.04.2026 16:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "29.04.2026 11:00"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7429656",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "3bcafb7d6df2b9750d33b27377711c5957e31b4294b658c5519ebd4d8a15ece4",
+          "sozlesmeId": "13250721",
+          "baslik": "İSTANBUL İLİ BEŞİKTAŞ İLÇESİ ORTAKÖY MAHALLESİ JANDARMA GENEL KOMUTANLIĞI BALMUMCU SOSYAL TESİS İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-05-26T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>İSTANBUL İLİ BEŞİKTAŞ İLÇESİ ORTAKÖY MAHALLESİ JANDARMA GENEL KOMUTANLIĞI BALMUMCU SOSYAL TESİS İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/727335</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>29.04.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 C)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Savunma ve güvenlikle ilgili özel durumların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>844.144.678,37\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>İSTANBUL İLİ BEŞİKTAŞ İLÇESİ ORTAKÖY MAHALLESİ JANDARMA GENEL KOMUTANLIĞI BALMUMCU SOSYAL TESİS İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>İstanbul</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>720</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">9</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">7</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>7</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>22.05.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">810.000.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>31.05.2026 - 19.05.2028</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">MUSTAFA EKŞİ YAPI ANONİM ŞİRKETİ</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">İLKBAHAR  MAHALLESİ 571. CADDESİ 613. SOKAK NO: 10 ÇANKAYA/ANKARA ÇANKAYA/ANKARA</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "MUSTAFA EKŞİ YAPI ANONİM ŞİRKETİ"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13250721",
+          "ihaleId": "45cc3cbec97245d88b034c85f31b820e9ab833a31968752c4305a6e5da933502",
+          "yukleniciAdi": "MUSTAFA EKŞİ YAPI ANONİM ŞİRKETİ",
+          "sozlesmeBedeli": "810,000,000.00 TRY",
+          "sozlesmeTarih": "2026-05-22T00:00:00+03:00",
+          "enYuksekTeklif": "915,125,000.00 TRY",
+          "enDusukTeklif": "810,000,000.00 TRY",
+          "yaklasikMaliyet": "844.144.678,37 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/727335",
+            "ihaleAdi": "İstanbul İli Beşiktaş İlçesi Ortaköy Mahallesi Jandarma Genel Komutanlığı Balmumcu Sosyal Tesis İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-05-22T00:00:00",
+            "sozlesmeBedeli": "810,000,000.00 TRY",
+            "yuklenici": "MUSTAFA EKŞİ YAPI ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "49783700",
+                "kisimAdi": "İstanbul İli Beşiktaş İlçesi Ortaköy Mahallesi Jandarma Genel Komutanlığı Balmumcu Sosyal Tesis İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+                "enYuksekTeklif": "915.125.000,00 TRY",
+                "enDusukTeklif": "810.000.000,00 TRY",
+                "yaklasikMaliyet": "844.144.678,37 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 844144678.37
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "8a285242ad072d8bc80740e97e42051954088d151e69edf9a8280c00c48ed8b2",
+      "ikn": "2026/672329",
+      "ihaleAdi": "Bartın İli Merkez İlçesi 158 Adet Konut, 2 Adet Dükkan ve 1 Adet Cami İnşaatı İle Altyapı Ve Çevre Düzenlemesi İkmal İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "24362",
+        "141030",
+        "6613",
+        "35091",
+        "521228",
+        "66607",
+        "861846",
+        "319982",
+        "1311178",
+        "380066",
+        "1326688",
+        "407603"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "ccd53f5a494986a9fadc1dd7b30cad9665c94f32c25d24b065a5827071cd307b",
+        "ihaleAdi": "Bartın İli Merkez İlçesi 158 Adet Konut, 2 Adet Dükkan ve 1 Adet Cami İnşaatı İle Altyapı Ve Çevre Düzenlemesi İkmal İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/672329",
+        "iknYil": "2026",
+        "iknSayi": "672329",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "20.04.2026 16:30",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 B)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Bartın",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "20.04.2026 16:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "20.04.2026 10:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7333832",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "b4905424dc59c60ad484e1550683e34c707ae9c4e58c28e3959ee39f4d4d2a5b",
+          "sozlesmeId": "13153573",
+          "baslik": "BARTIN İLİ MERKEZ İLÇESİ 158 ADET KONUT, 2 ADET DÜKKAN VE 1 ADET CAMİ İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞİ",
+          "ilanTarihi": "2026-05-12T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>BARTIN İLİ MERKEZ İLÇESİ 158 ADET KONUT, 2 ADET DÜKKAN VE 1 ADET CAMİ İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/672329</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>20.04.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 B)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya yapım tekniği açısından özellik arz eden \n                                                veya yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare \n                                                tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>58.120.984,88\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>BARTIN İLİ MERKEZ İLÇESİ 158 ADET KONUT, 2 ADET DÜKKAN VE 1 ADET CAMİ İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Bartın</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>100</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">11</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">10</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>10</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>07.05.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">48.820.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>17.05.2026 - 24.08.2026</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">LİMKAY YAPI İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">BAĞLICA MAH. MERMEROĞLU CAD. NO: 61/4B ETİMESGUT / ANKARA ETİMESGUT/ANKARA</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "LİMKAY YAPI İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13153573",
+          "ihaleId": "42ed9f0cdcdfb9e92c9f69ea90c1c0e66ee2f52ccb55cc3f79aae2e9f0d2e731",
+          "yukleniciAdi": "LİMKAY YAPI İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+          "sozlesmeBedeli": "48,820,000.00 TRY",
+          "sozlesmeTarih": "2026-05-07T00:00:00+03:00",
+          "enYuksekTeklif": "110,000,000.00 TRY",
+          "enDusukTeklif": "48,820,000.00 TRY",
+          "yaklasikMaliyet": "58.120.984,88 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/672329",
+            "ihaleAdi": "Bartın İli Merkez İlçesi 158 Adet Konut, 2 Adet Dükkan ve 1 Adet Cami İnşaatı İle Altyapı Ve Çevre Düzenlemesi İkmal İşi",
+            "sozlesmeTarih": "2026-05-07T00:00:00",
+            "sozlesmeBedeli": "48,820,000.00 TRY",
+            "yuklenici": "LİMKAY YAPI İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "49583654",
+                "kisimAdi": "Bartın İli Merkez İlçesi 158 Adet Konut, 2 Adet Dükkan ve 1 Adet Cami İnşaatı İle Altyapı Ve Çevre Düzenlemesi İkmal İşi",
+                "enYuksekTeklif": "110.000.000,00 TRY",
+                "enDusukTeklif": "48.820.000,00 TRY",
+                "yaklasikMaliyet": "58.120.984,88 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 58120984.88
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "cc12dc2c24453b6e7eb58c36d4e54faf359986288575d6a36fa8079746511a4a",
+      "ikn": "2026/632568",
+      "ihaleAdi": "Antalya İli COP31 Etkinlik Alanı İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": true,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "118091",
+        "190727",
+        "219",
+        "123229",
+        "161873",
+        "177676",
+        "440421",
+        "978364",
+        "105115",
+        "14396",
+        "18414"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.AVANS"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "297d5279c9b49b78742d86cc777521319ec4483e881f8042d3905681f74ba486",
+        "ihaleAdi": "Antalya İli COP31 Etkinlik Alanı İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/632568",
+        "iknYil": "2026",
+        "iknSayi": "632568",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "14.04.2026 16:30",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 B)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Antalya",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "14.04.2026 16:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "14.04.2026 10:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7251666",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "03959470ed2de4d206cf5f61d1e9bd6e9ca50cec570c9dbf144045f6ae40efc1",
+          "sozlesmeId": "13070859",
+          "baslik": "ANTALYA İLİ COP31 ETKİNLİK ALANI İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-04-28T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>ANTALYA İLİ COP31 ETKİNLİK ALANI İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/632568</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>14.04.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 B)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya yapım tekniği açısından özellik arz eden \n                                                veya yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare \n                                                tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>8.376.960.613,85\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>ANTALYA İLİ COP31 ETKİNLİK ALANI İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Antalya</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>150</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">11</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">9</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>9</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>24.04.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">8.085.000.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>04.05.2026 - 30.09.2026</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">ÖZYAZICI İNŞAAT ELEKTRİK MAKİNA MÜŞAVİRLİK VE TAAHHÜT SANAYİ VE TİCARET ANONİM ŞİRKETİ</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">TOZKOPARAN MAH. CEVAT AÇIKALIN CAD. ONUR SİTESİ B BLOK  NO: 39  İÇ KAPI NO: 1 GÜNGÖREN / İSTANBUL GÜNGÖREN/İSTANBUL</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "ÖZYAZICI İNŞAAT ELEKTRİK MAKİNA MÜŞAVİRLİK VE TAAHHÜT SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13070859",
+          "ihaleId": "f4028153850d16bdb809978ba6461a2f2fad10ddd73f156b52878063a7f4e048",
+          "yukleniciAdi": "ÖZYAZICI İNŞAAT ELEKTRİK MAKİNA MÜŞAVİRLİK VE TAAHHÜT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+          "sozlesmeBedeli": "8,085,000,000.00 TRY",
+          "sozlesmeTarih": "2026-04-24T00:00:00+03:00",
+          "enYuksekTeklif": "8,925,000,000.00 TRY",
+          "enDusukTeklif": "8,085,000,000.00 TRY",
+          "yaklasikMaliyet": "8.376.960.613,85 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/632568",
+            "ihaleAdi": "Antalya İli COP31 Etkinlik Alanı İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-04-24T00:00:00",
+            "sozlesmeBedeli": "8,085,000,000.00 TRY",
+            "yuklenici": "ÖZYAZICI İNŞAAT ELEKTRİK MAKİNA MÜŞAVİRLİK VE TAAHHÜT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "49438505",
+                "kisimAdi": "Antalya İli COP31 Etkinlik Alanı İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+                "enYuksekTeklif": "8.925.000.000,00 TRY",
+                "enDusukTeklif": "8.085.000.000,00 TRY",
+                "yaklasikMaliyet": "8.376.960.613,85 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 8376960613.85
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "9aa5cf3d52ca7fe0b84506c27862a2000beff4e65aa691b33688fde750c6f0ba",
+      "ikn": "2026/520408",
+      "ihaleAdi": "Hatay İli Merkez Antakya İlçesi Saraycık Mahallesi 10.1. Bölge 7. Etap 133 Adet Konut ve 6 Adet Dükkan İnşaatları ile Büyükdalyan Mahallesi 30. Bölge 80 Adet Ofis İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "19235",
+        "919462",
+        "825650",
+        "195706",
+        "136987",
+        "438461",
+        "1081704",
+        "461325",
+        "203667",
+        "51228",
+        "740777"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "08d827d22acf77180dd42770dc7813646d4f66f6da7c1685e25505dde4ce24f2",
+        "ihaleAdi": "Hatay İli Merkez Antakya İlçesi Saraycık Mahallesi 10.1. Bölge 7. Etap 133 Adet Konut ve 6 Adet Dükkan İnşaatları ile Büyükdalyan Mahallesi 30. Bölge 80 Adet Ofis İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/520408",
+        "iknYil": "2026",
+        "iknSayi": "520408",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "31.03.2026 16:00",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 B)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Hatay",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "31.03.2026 16:00"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "31.03.2026 10:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7429674",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "b92cabf92e1cf88d434ad53c9ee3dc895ad455a74686cb62da5620fbc3beef6c",
+          "sozlesmeId": "13250740",
+          "baslik": "HATAY İLİ MERKEZ ANTAKYA İLÇESİ SARAYCIK MAHALLESİ 10.1. BÖLGE 7. ETAP 133 ADET KONUT VE 6 ADET DÜKKAN İNŞAATLARI İLE BÜYÜKDALYAN MAHALLESİ 30. BÖLGE 80 ADET OFİS İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-05-26T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>HATAY İLİ MERKEZ ANTAKYA İLÇESİ SARAYCIK MAHALLESİ 10.1. BÖLGE 7. ETAP 133 ADET KONUT VE 6 ADET DÜKKAN İNŞAATLARI İLE BÜYÜKDALYAN MAHALLESİ 30. BÖLGE 80 ADET OFİS İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/520408</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>31.03.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 B)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya yapım tekniği açısından özellik arz eden \n                                                veya yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare \n                                                tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>805.407.953,29\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>HATAY İLİ MERKEZ ANTAKYA İLÇESİ SARAYCIK MAHALLESİ 10.1. BÖLGE 7. ETAP 133 ADET KONUT VE 6 ADET DÜKKAN İNŞAATLARI İLE BÜYÜKDALYAN MAHALLESİ 30. BÖLGE 80 ADET OFİS İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Hatay</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>300</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">11</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">11</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>11</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>22.05.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">547.000.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>26.05.2026 - 21.03.2027</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">YUSED İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">CEVİZLİDERE MAHALLESİ MEVLANA BLV.  NO: 221/19  ÇANKAYA/ANKARA ÇANKAYA/ANKARA</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "YUSED İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13250740",
+          "ihaleId": "a204432b545c643e0957f88fff7f22857aa7c260ee7fed917b923c3f301f9754",
+          "yukleniciAdi": "YUSED İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+          "sozlesmeBedeli": "547,000,000.00 TRY",
+          "sozlesmeTarih": "2026-05-22T00:00:00+03:00",
+          "enYuksekTeklif": "785,571,571.00 TRY",
+          "enDusukTeklif": "547,000,000.00 TRY",
+          "yaklasikMaliyet": "805.407.953,29 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/520408",
+            "ihaleAdi": "Hatay İli Merkez Antakya İlçesi Saraycık Mahallesi 10.1. Bölge 7. Etap 133 Adet Konut ve 6 Adet Dükkan İnşaatları ile Büyükdalyan Mahallesi 30. Bölge 80 Adet Ofis İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-05-22T00:00:00",
+            "sozlesmeBedeli": "547,000,000.00 TRY",
+            "yuklenici": "YUSED İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "49030043",
+                "kisimAdi": "Hatay İli Merkez Antakya İlçesi Saraycık Mahallesi 10.1. Bölge 7. Etap 133 Adet Konut ve 6 Adet Dükkan İnşaatları ile Büyükdalyan Mahallesi 30. Bölge 80 Adet Ofis İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi",
+                "enYuksekTeklif": "785.571.571,00 TRY",
+                "enDusukTeklif": "547.000.000,00 TRY",
+                "yaklasikMaliyet": "805.407.953,29 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 805407953.29
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "10c08e8f3a5b99c4cbb8f61b4606e9a6db219e3b26e3f337f97d35dccca3627c",
+      "ikn": "2026/520986",
+      "ihaleAdi": "Malatya İli Merkez Battalgazi İlçesi Cevherizade ve İzzetiye Mah. 4. Bölge 7. Etap 185 Adet Konut, 78 Adet Dükkan, 99 Adet Ofis ve 2 Adet Fırın İle Niyazi Mah 70 Bölge 5 Adet Konut ve 1 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "118091",
+        "142042",
+        "614838",
+        "469",
+        "176317",
+        "440421",
+        "978364",
+        "220989",
+        "862490",
+        "121184"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "3460663148ddc3490ddc6ffd21a221175d1521172209f6b889fcc063c1d431b7",
+        "ihaleAdi": "Malatya İli Merkez Battalgazi İlçesi Cevherizade ve İzzetiye Mah. 4. Bölge 7. Etap 185 Adet Konut, 78 Adet Dükkan, 99 Adet Ofis ve 2 Adet Fırın İle Niyazi Mah 70 Bölge 5 Adet Konut ve 1 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/520986",
+        "iknYil": "2026",
+        "iknSayi": "520986",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "31.03.2026 14:30",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 B)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Malatya",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "31.03.2026 14:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "30.03.2026 11:00"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7268697",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "9e15c9491426bdcaa6ac5e2f5175def28c6dd70e5d135019a5b5309571f6a425",
+          "sozlesmeId": "13088085",
+          "baslik": "MALATYA İLİ MERKEZ BATTALGAZİ İLÇESİ CEVHERİZADE VE İZZETİYE MAH. 4. BÖLGE 7. ETAP 185 ADET KONUT, 78 ADET DÜKKAN, 99 ADET OFİS VE 2 ADET FIRIN İLE NİYAZİ MAH 70 BÖLGE 5 ADET KONUT VE 1 ADET DÜKKAN İNŞAATLARI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-04-30T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>MALATYA İLİ MERKEZ BATTALGAZİ İLÇESİ CEVHERİZADE VE İZZETİYE MAH. 4. BÖLGE 7. ETAP 185 ADET KONUT, 78 ADET DÜKKAN, 99 ADET OFİS VE 2 ADET FIRIN İLE NİYAZİ MAH 70 BÖLGE 5 ADET KONUT VE 1 ADET DÜKKAN İNŞAATLARI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/520986</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>31.03.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 B)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya yapım tekniği açısından özellik arz eden \n                                                veya yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare \n                                                tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>1.493.579.990,99\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>MALATYA İLİ MERKEZ BATTALGAZİ İLÇESİ CEVHERİZADE VE İZZETİYE MAH. 4. BÖLGE 7. ETAP 185 ADET KONUT, 78 ADET DÜKKAN, 99 ADET OFİS VE 2 ADET FIRIN İLE NİYAZİ MAH 70 BÖLGE 5 ADET KONUT VE 1 ADET DÜKKAN İNŞAATLARI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Malatya</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>300</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">9</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">9</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>9</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>28.04.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">1.370.000.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>08.05.2026 - 03.03.2027</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">MAKSEM YAPI TİCARET ANONİM ŞİRKETİ</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">ÖRNEKTEPE MAH.KERVANSARAY SOK. MAKSEM İŞ MR.NO:30 K.3 BEYOĞLU/İSTANBUL BEYOĞLU/İSTANBUL</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "MAKSEM YAPI TİCARET ANONİM ŞİRKETİ"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13088085",
+          "ihaleId": "35ff2499aa5d639cd1dcfe2d4520acf39344a05fc51eba6d69754dac3f1ecabf",
+          "yukleniciAdi": "MAKSEM YAPI TİCARET ANONİM ŞİRKETİ",
+          "sozlesmeBedeli": "1,370,000,000.00 TRY",
+          "sozlesmeTarih": "2026-04-28T00:00:00+03:00",
+          "enYuksekTeklif": "1,490,000,000.00 TRY",
+          "enDusukTeklif": "1,370,000,000.00 TRY",
+          "yaklasikMaliyet": "1.493.579.990,99 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/520986",
+            "ihaleAdi": "Malatya İli Merkez Battalgazi İlçesi Cevherizade ve İzzetiye Mah. 4. Bölge 7. Etap 185 Adet Konut, 78 Adet Dükkan, 99 Adet Ofis ve 2 Adet Fırın İle Niyazi Mah 70 Bölge 5 Adet Konut ve 1 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-04-28T00:00:00",
+            "sozlesmeBedeli": "1,370,000,000.00 TRY",
+            "yuklenici": "MAKSEM YAPI TİCARET ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "49032682",
+                "kisimAdi": "Malatya İli Merkez Battalgazi İlçesi Cevherizade ve İzzetiye Mah. 4. Bölge 7. Etap 185 Adet Konut, 78 Adet Dükkan, 99 Adet Ofis ve 2 Adet Fırın İle Niyazi Mah 70 Bölge 5 Adet Konut ve 1 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+                "enYuksekTeklif": "1.490.000.000,00 TRY",
+                "enDusukTeklif": "1.370.000.000,00 TRY",
+                "yaklasikMaliyet": "1.493.579.990,99 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 1493579990.99
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "934486f2b665edf1eeb014209b883953293cfb4efdafa2371f31147387b6c638",
+      "ikn": "2026/513658",
+      "ihaleAdi": "Hatay İli Merkez Defne İlçesi Çekmece Mahallesi 11. Bölge 370 Adet Konut ve 129 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "553731",
+        "142042",
+        "1134354",
+        "193984",
+        "200259",
+        "10969",
+        "22941",
+        "440421",
+        "978364",
+        "862490"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "eb79c0f9dc83c3f0305478e0d0828378308fa57366b5fd2d466af267734ab9cf",
+        "ihaleAdi": "Hatay İli Merkez Defne İlçesi Çekmece Mahallesi 11. Bölge 370 Adet Konut ve 129 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/513658",
+        "iknYil": "2026",
+        "iknSayi": "513658",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "31.03.2026 14:00",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 B)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Hatay",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "31.03.2026 14:00"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "30.03.2026 10:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7221749",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "6815981182726466b4af2efd78d47ccd91676e9555f938fd5e9259a1d828b8dd",
+          "sozlesmeId": "13040406",
+          "baslik": "HATAY İLİ MERKEZ DEFNE İLÇESİ ÇEKMECE MAHALLESİ 11. BÖLGE 370 ADET KONUT VE 129 ADET DÜKKAN İNŞAATLARI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-04-22T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>HATAY İLİ MERKEZ DEFNE İLÇESİ ÇEKMECE MAHALLESİ 11. BÖLGE 370 ADET KONUT VE 129 ADET DÜKKAN İNŞAATLARI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/513658</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>31.03.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 B)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya yapım tekniği açısından özellik arz eden \n                                                veya yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare \n                                                tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>1.606.741.176,90\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>HATAY İLİ MERKEZ DEFNE İLÇESİ ÇEKMECE MAHALLESİ 11. BÖLGE 370 ADET KONUT VE 129 ADET DÜKKAN İNŞAATLARI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Hatay</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>360</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">9</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">9</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>9</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>20.04.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">1.498.000.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>25.04.2026 - 19.04.2027</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">GELİŞ MADENCİLİK İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, ONURAY INŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ İş Ortaklığı</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">Turan Güneş Bulvarıno:73/6 Çankaya/ANKARA ÇANKAYA/ANKARA</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "GELİŞ MADENCİLİK İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, ONURAY INŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ İş Ortaklığı"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13040406",
+          "ihaleId": "7a480e5117a6adc8ee5166ed1df691b1c9e23921db60f80154d488860c6b8a37",
+          "yukleniciAdi": "GELİŞ MADENCİLİK İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, ONURAY INŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ İş Ortaklığı",
+          "sozlesmeBedeli": "1,498,000,000.00 TRY",
+          "sozlesmeTarih": "2026-04-20T00:00:00+03:00",
+          "enYuksekTeklif": "1,600,000,000.00 TRY",
+          "enDusukTeklif": "1,498,000,000.00 TRY",
+          "yaklasikMaliyet": "1.606.741.176,90 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/513658",
+            "ihaleAdi": "Hatay İli Merkez Defne İlçesi Çekmece Mahallesi 11. Bölge 370 Adet Konut ve 129 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-04-20T00:00:00",
+            "sozlesmeBedeli": "1,498,000,000.00 TRY",
+            "yuklenici": "GELİŞ MADENCİLİK İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, ONURAY INŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "49003698",
+                "kisimAdi": "Hatay İli Merkez Defne İlçesi Çekmece Mahallesi 11. Bölge 370 Adet Konut ve 129 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İşi",
+                "enYuksekTeklif": "1.600.000.000,00 TRY",
+                "enDusukTeklif": "1.498.000.000,00 TRY",
+                "yaklasikMaliyet": "1.606.741.176,90 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 1606741176.9
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "223e47c5fdd634489aa1a22a1befad86b35ef87cdb8b8b53826c0c5a425559cf",
+      "ikn": "2026/481392",
+      "ihaleAdi": "Ankara İli Mamak İlçesi 3. Etap Jandarma Komando Özel Asayiş Komutanlığı (JÖAK) Hizmet Binası ve Tesisleri İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "118091",
+        "193984",
+        "179255",
+        "29942",
+        "3336",
+        "978364",
+        "18414",
+        "21430"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "c64ab34c6688afeb73b0d4e86d812df4d55eb3e5a142ad677006cb7262ed35df",
+        "ihaleAdi": "Ankara İli Mamak İlçesi 3. Etap Jandarma Komando Özel Asayiş Komutanlığı (JÖAK) Hizmet Binası ve Tesisleri İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/481392",
+        "iknYil": "2026",
+        "iknSayi": "481392",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "25.03.2026 16:00",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 C)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Ankara",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "25.03.2026 16:00"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "25.03.2026 10:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7201868",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "040c349050257bd5bb2fda1b31eaab78007565bb3d5c917ee7e2dbc36d4fcb0b",
+          "sozlesmeId": "13020517",
+          "baslik": "ANKARA İLİ MAMAK İLÇESİ 3. ETAP JANDARMA KOMANDO ÖZEL ASAYİŞ KOMUTANLIĞI (JÖAK) HİZMET BİNASI VE TESİSLERİ İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-04-20T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>ANKARA İLİ MAMAK İLÇESİ 3. ETAP JANDARMA KOMANDO ÖZEL ASAYİŞ KOMUTANLIĞI (JÖAK) HİZMET BİNASI VE TESİSLERİ İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/481392</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>25.03.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 C)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Savunma ve güvenlikle ilgili özel durumların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>1.458.918.287,80\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>ANKARA İLİ MAMAK İLÇESİ 3. ETAP JANDARMA KOMANDO ÖZEL ASAYİŞ KOMUTANLIĞI (JÖAK) HİZMET BİNASI VE TESİSLERİ İNŞAATI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Ankara</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>720</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">8</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">8</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>8</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>16.04.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">1.375.000.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>26.04.2026 - 14.04.2028</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">ARTI DEĞER İNŞAAT OTOMOTİV SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ, ARAL TEKNOLOJİ YAPI TAAHHÜT İNŞAAT ANONİM ŞİRKETİ İş Ortaklığı</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">AYDINLI MAH. MALKOÇ SK. C BLOK NO: 1C İÇ KAPI NO: 30 TUZLA / İSTANBUL TUZLA/İSTANBUL</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "ARTI DEĞER İNŞAAT OTOMOTİV SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ, ARAL TEKNOLOJİ YAPI TAAHHÜT İNŞAAT ANONİM ŞİRKETİ İş Ortaklığı"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13020517",
+          "ihaleId": "2fd191b7a0f89191cc49adad1e5d562e327f1b7f24fa60c2d24a2318739e4a99",
+          "yukleniciAdi": "ARTI DEĞER İNŞAAT OTOMOTİV SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ, ARAL TEKNOLOJİ YAPI TAAHHÜT İNŞAAT ANONİM ŞİRKETİ İş Ortaklığı",
+          "sozlesmeBedeli": "1,375,000,000.00 TRY",
+          "sozlesmeTarih": "2026-04-16T00:00:00+03:00",
+          "enYuksekTeklif": "1,535,000,000.00 TRY",
+          "enDusukTeklif": "1,375,000,000.00 TRY",
+          "yaklasikMaliyet": "1.458.918.287,80 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/481392",
+            "ihaleAdi": "Ankara İli Mamak İlçesi 3. Etap Jandarma Komando Özel Asayiş Komutanlığı (JÖAK) Hizmet Binası ve Tesisleri İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-04-16T00:00:00",
+            "sozlesmeBedeli": "1,375,000,000.00 TRY",
+            "yuklenici": "ARTI DEĞER İNŞAAT OTOMOTİV SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ, ARAL TEKNOLOJİ YAPI TAAHHÜT İNŞAAT ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "48888466",
+                "kisimAdi": "Ankara İli Mamak İlçesi 3. Etap Jandarma Komando Özel Asayiş Komutanlığı (JÖAK) Hizmet Binası ve Tesisleri İnşaatı İle Altyapı ve Çevre Düzenlemesi İşi",
+                "enYuksekTeklif": "1.535.000.000,00 TRY",
+                "enDusukTeklif": "1.375.000.000,00 TRY",
+                "yaklasikMaliyet": "1.458.918.287,80 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 1458918287.8
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "9add199e3ec379248ff50aeb984fc2a0ef95c5a3e2d1aacbc4c9f944dac72d2c",
+      "ikn": "2026/339317",
+      "ihaleAdi": "Ankara İli Sincan İlçesi Saraycık Mahallesi 6.Bölge 2.Etap 573 Adet Konut ve 4 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İkmal İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "1",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": false,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": true,
+      "dokumanIndirenlerGosterilsinMi": true,
+      "sikayetlerGosterilsinMi": true,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": true,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "53376cd4f77f0d731b2f03c787dc5be440a7418d47dda6dbeb9639982a01bc01",
+        "ihaleAdi": "Ankara İli Sincan İlçesi Saraycık Mahallesi 6.Bölge 2.Etap 573 Adet Konut ve 4 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İkmal İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/339317",
+        "iknYil": "2026",
+        "iknSayi": "339317",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "23.03.2026 14:00",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Açık",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Ankara",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "23.03.2026 14:00"
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "BI. ve BII. Grubu işlerin dışındaki bina işleri",
+          "kodu": "452100001",
+          "koduAdi": "452100001 - BI. ve BII. Grubu işlerin dışındaki bina işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "6888301",
+          "ilanTip": "1",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "3e73dc1579c76ddeeaa325a4ac7d579606b58a11634d50765068280914141ff4",
+          "sozlesmeId": null,
+          "baslik": "BİNA İNŞAATI, ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞLERİ YAPTIRILACAKTIR",
+          "ilanTarihi": "2026-03-02T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>BİNA İNŞAATI, ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞLERİ YAPTIRILACAKTIR</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><span class=\"idareBilgi\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">Ankara İli Sincan İlçesi Saraycık Mahallesi 6.Bölge 2.Etap 573 Adet Konut ve 4 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İkmal İşi</span>\r\n    yapım işi 4734 sayılı Kamu İhale Kanununun 19 uncu maddesine göre açık ihale usulü ile ihale edilecek olup, teklifler sadece elektronik ortamda EKAP üzerinden alınacaktır.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /> İhaleye ilişkin ayrıntılı bilgiler aşağıda yer almaktadır:\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale Kayıt Numarası (İKN)</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/339317</b></td></tr></table><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td colspan=\"3\"><span class=\"ilanBaslik\">1- İdarenin</span></td></tr><tr><td width=\"220\" valign=\"top\"><b>1.1.</b> Adı\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td><span class=\"idareBilgi\">TOPLU KONUT İDARESİ BAŞKANLIĞI</span></td></tr><tr><td width=\"220\" valign=\"top\"><b>1.2.</b> Adresi\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td><span class=\"idareBilgi\">Bilkent Plaza B1 Blok 06800 Bilkent -  ÇANKAYA/ANKARA ÇANKAYA/ANKARA</span></td></tr><tr><td width=\"220\" valign=\"top\"><b>1.3.</b> Telefon numarası\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td><span class=\"idareBilgi\">03125652000</span></td></tr><tr><td width=\"220\" style=\"text-align:left\" valign=\"top\"><b>1.4.</b> İhale dokümanının görülebileceği ve indirilebileceği internet sayfası\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td valign=\"top\">\r\n          https://ekap.kik.gov.tr/EKAP/\r\n        </td></tr></table><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><span class=\"ilanBaslik\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"> 2- İhalenin</span><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\" valign=\"top\" style=\"text-align:left\"><b>2.1.</b> Tarih ve Saati\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td valign=\"top\"><span class=\"idareBilgi\">23.03.2026 - 14:00</span></td></tr><tr><td valign=\"top\" style=\"text-align:left\"><b>2.2.</b> Yapılacağı (e-tekliflerin açılacağı) adres\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td valign=\"top\"><span class=\"idareBilgi\">Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu</span></td></tr></table><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><span class=\"ilanBaslik\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"> 3- İhale konusu yapım işinin</span><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\" valign=\"top\"><b>3.1.</b> Adı\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td><span class=\"idareBilgi\">Ankara İli Sincan İlçesi Saraycık Mahallesi 6.Bölge 2.Etap 573 Adet Konut ve 4 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İkmal İşi</span></td></tr><tr><td width=\"220\" valign=\"top\"><b>3.2.</b> Niteliği, türü ve miktarı\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td><div style=\"width:100%; overflow:auto; height:auto;\" class=\"divIlanOver\"><span class=\"idareBilgi\">Tünel Kalıp Sistemiyle 573 Adet Konut, 4 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İkmal İşi<br />Ayrıntılı bilgiye EKAP’ta yer alan ihale dokümanı içinde bulunan idari şartnameden ulaşılabilir.</span></div></td></tr><tr><td width=\"220\" valign=\"top\"><b>3.3.</b> Yapılacağı/teslim edileceği yer\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td><span class=\"idareBilgi\">Ankara</span></td></tr><tr><td width=\"220\" valign=\"top\"><b>3.4.</b> Süresi/teslim tarihi\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td>\r\n          Yer tesliminden itibaren <span class=\"idareBilgi\">210 (İkiYüzOn) takvim günüdür</span>.\r\n        </td></tr><tr><td width=\"220\" valign=\"top\"><b>3.5.</b> İşe başlama tarihi\r\n        </td><td width=\"1%\" valign=\"top\">:</td><td><span class=\"idareBilgi\">\r\n            Sözleşmenin imzalandığı tarihten itibaren <span class=\"idareBilgi\">10</span>\r\n            gün içinde <br />yer teslimi yapılarak işe başlanacaktır.\r\n          </span></td></tr></table><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">4- Katılım ve yeterlik kriterleri:</b><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">4.1.</b>  Katılım ve yeterlik kriterlerine ilişkin istekliler tarafından e-teklif kapsamında sunulması gereken bilgi ve belgeler ile fiyat dışı unsurlara ilişkin bilgi ve belgelere aşağıda yer verilmiştir:\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">4.1.1.</b> Teklif mektubu.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">\r\n      4.1.2. Teklif vermeye yetkili olunduğunu gösteren bilgi ve belgeler:\r\n    </b><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">4.1.2.1.</b> Tüzel kişilerde; isteklilerin yönetimindeki görevliler ile ilgisine göre, ortaklar ve ortaklık oranlarına (halka arz edilen hisseler hariç)/üyelerine/kurucularına ilişkin bilgi ve belgeler.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">4.1.2.2.</b> Vekâleten ihaleye katılma halinde vekile ilişkin bilgi ve belgeler.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">4.1.3.</b>   Geçici teminat.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">4.1.4</b> İsteklinin iş ortaklığı olması halinde iş ortaklığı beyannamesi.\r\n      <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td><b>4.2. Ekonomik ve mali yeterliğe ilişkin bilgi ve belgeler ile bunların taşıması gereken kriterler:</b></td></tr><tr><td><b>4.2.1. İsteklinin ihalenin yapıldığı yıldan önceki yıla ait yıl sonu bilançosu veya eşdeğer belgeleri:\r\n            </b></td></tr><tr><td>\r\n            a) İlgili mevzuatı uyarınca bilançosunu yayımlatma zorunluluğu olan istekliler yıl sonu bilançosunu veya bilançonun gerekli kriterlerin sağlandığını gösteren bölümlerini,<br />\r\n            b) İlgili mevzuatı uyarınca bilançosunu yayımlatma zorunluluğu olmayan istekliler, yıl sonu bilançosunu veya bilançonun gerekli kriterlerin sağlandığını gösteren bölümlerini ya da bu kriterlerin sağlandığını göstermek üzere yeminli mali müşavir veya serbest muhasebeci mali müşavir tarafından e-forma uygun olarak düzenlenen belgeyi sunar.  <br />\r\n            Sunulan bilanço veya eşdeğer belgelerde;<br />\r\n            a) Cari oranın (dönen varlıklar / kısa vadeli borçlar) en az 0,75 olması, <br />\r\n            b) Öz kaynak oranının (öz kaynaklar/ toplam aktif) en az 0,15 olması, <br />\r\n            c) Kısa vadeli banka borçlarının öz kaynaklara oranının 0,50’den küçük olması, yeterlik kriterleridir ve bu üç kriter birlikte aranır. <br />\r\n\r\n            Yukarıda belirtilen kriterleri bir önceki yılda sağlayamayanlar, son üç yıla kadar olan yılların belgelerini sunabilirler. Bu takdirde belgeleri sunulan yılların parasal tutarlarının ortalaması üzerinden yeterlik kriterlerinin sağlanıp sağlanmadığına bakılır.<br />\r\n              İhale tarihi yılın ilk dört ayında olduğundan, bir önceki yıla ait belgelerini sunmayanlar, iki önceki yıla ait belgelerini sunabilirler. Bu belgelerde, yeterlik kriterini sağlayamayanlar ise iki önceki yılın belgeleri ile üç önceki ve dört önceki yılın belgelerini sunabilirler. Bu durumda, belgeleri sunulan yılların parasal tutarlarının ortalaması üzerinden yeterlik kriterlerinin sağlanıp sağlanmadığına bakılır.\r\n            </td></tr><tr><td><b>4.2.2. İş hacmini gösteren belgeler:\r\n            </b></td></tr><tr><td>\r\n              İsteklinin ihalenin yapıldığı yıldan önceki yıla ait, aşağıda belirtilen belgelerden birini sunması yeterlidir;<br />\r\n              a) Toplam cirosunu gösteren gelir tablosu, <br />\r\n              b) Yapım işleri cirosunu gösteren belgeler, <br />\r\n              İsteklinin cirosunun teklif ettiği bedelin\r\n              % 25 inden,\r\n              yapım işleri cirosunun ise teklif edilen bedelin\r\n               % 15 inden \r\n              az olmaması gerekir. Bu kriterlerden herhangi birini sağlayan ve sağladığı kritere ilişkin belgeyi sunan istekli yeterli kabul edilecektir.<br />\r\n              Bu kriterleri ihalenin yapıldığı yıldan önceki yıl için sağlayamayanlar, ihalenin yapıldığı yıldan önceki yıldan başlamak üzere birbirini takip eden son altı yıla kadarki belgelerini sunabilirler. Bu takdirde, belgeleri sunulan yılların parasal tutarlarının ortalaması üzerinden yeterlik kriterlerinin sağlanıp sağlanmadığına bakılır.<br /><br />İhale tarihi yılın ilk dört ayında olduğundan, bir önceki yıla ait gelir tablosunu sunmayanlar bakımından iki önceki yıl, ihalenin yapıldığı yıldan bir önceki yıl olarak kabul edilir. Bu gelir tablosu itibariyle yeterlik şartının sağlanamaması halinde ise, iki önceki yıl, ihalenin yapıldığı yıldan bir önceki yıl olarak kabul edilmek üzere son altı yıla kadarki gelir tabloları sunulabilir ve bu durumda gelir tabloları sunulan yılların parasal tutarlarının ortalaması üzerinden yeterlik kriterlerinin sağlanıp sağlanmadığına bakılır.\r\n            </td></tr></table><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td><b>4.3. Mesleki ve teknik yeterliğe ilişkin bilgi ve belgeler ile bunların taşıması gereken kriterler:</b></td></tr><td><b>4.3.1.</b>  Son on beş yıl içinde bedel içeren bir sözleşme kapsamında taahhüt edilen ve teklif edilen bedelin % 100 oranından az olmamak üzere ihale konusu iş veya benzer işlere ilişkin iş deneyimini gösteren belgeler.\r\n        </td><tr><td><br /><b>4.3.1.1.</b> Tüzel kişi tarafından iş deneyimini göstermek üzere kullanılan belgenin, tüzel kişiliğin yarısından fazla hissesine sahip ve 4734 sayılı Kanuna göre yapılacak ihalelere ilişkin sözleşmelerin yürütülmesi konusunda temsile ve yönetime yetkili olan ortağına ait olması halinde, ticaret ve sanayi odası/ticaret odası bünyesinde bulunan ticaret sicili müdürlükleri veya yeminli mali müşavir ya da serbest muhasebeci mali müşavir tarafından ilk ilan tarihinden sonra düzenlenen ve düzenlendiği tarihten geriye doğru son bir yıldır kesintisiz olarak bu şartların korunduğunu gösteren, e-forma uygun belgenin kullanılması zorunludur.\r\n            <br /><b>4.3.1.2.</b> 4734 sayılı Kanun kapsamındaki idarelere taahhüt edilenler dışında yurt dışında gerçekleştirilen işlerden elde edilen iş deneyiminin 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 195 inci maddesinin ikinci fıkrası gereğince pay çoğunluğuna dayanarak kurulan şirketler topluluğu ilişkisi içinde kullanılması halinde bu hukuki ilişkiyi ve bu ilişkinin süresini tevsik eden belgelerin sunulması zorunludur.\r\n            <br /></td></tr><tr><td><b>4.3.2 İhale konusu işin ya da malın satış faaliyetinin yerine getirilebilmesi için ilgili mevzuat gereğince sicil, izin, ruhsat, faaliyet belgesi vb. belgeler:\r\n            </b></td></tr><tr><td><div style=\"width:100%; overflow:auto; height:auto;\" class=\"divIlanOver\"><span class=\"idareBilgi\">Yapı Müteahhitliği Yetki Belgesi (YAMBİS)<br></span></div></td></tr></table><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td><b>4.4. Bu ihalede benzer iş olarak kabul edilecek işler ve benzer işe denk sayılacak mühendislik ve mimarlık bölümleri:</b></td></tr><tr><td><b>4.4.1. Bu ihalede benzer iş olarak kabul edilecek işler:\r\n            </b></td></tr><tr><td><div style=\"width:100%; overflow:auto; height:auto;\" class=\"divIlanOver\"><span class=\"idareBilgi\"><p>11.06.2011 tarih ve 27961 sayılı Resmi Gazetede yayımlanan \"Yapım İşlerinde benzer iş grupları tebliği\" nde yer alan B/III grubu işler veya B/III grubu tamamlama işleri benzer iş olarak kabul edilecektir.</p></span></div></td></tr><tr><td><b>4.4.2.\r\n              Bu ihalede benzer işe denk sayılacak mühendislik ve mimarlık bölümleri:\r\n            </b></td></tr><tr><td><div style=\"width:100%; overflow:auto; height:auto;\" class=\"divIlanOver\"><span class=\"idareBilgi\">İnşaat Mühendisliği<br>Mimarlık<br></span></div></td></tr></table><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">5-</b> Ekonomik açıdan en avantajlı teklif\r\n    \r\n      sadece fiyat esasına göre belirlenecektir.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">6- </b>\r\n      İhale yerli ve yabancı tüm  isteklilere açıktır.<br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" />\r\n      İhale yerli ve yabancı tüm isteklilere açık olup Kamu İhale Kurumu tarafından belirlenen esaslar çerçevesinde yerli istekliler lehine\r\n      <span class=\"idareBilgi\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">\r\n        % 15</span>\r\n      oranında fiyat avantajı uygulanacaktır.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">7-</b> İhaleye teklif verecek olanların, EKAP hesabına giriş yaparak ihale dokümanını indirmeleri zorunludur.\r\n\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">8-</b>Teklifler, EKAP üzerinden teklif mektubu ile ihaleye katılım belgesi ve diğer ekler kullanılarak hazırlanacak ve e-imza ile imzalanarak ihale tarih ve saatine kadar EKAP üzerinden gönderilecektir.\r\n\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">9-</b> İstekliler tekliflerini,\r\n    \r\n      anahtar teslimi götürü bedel üzerinden vereceklerdir. İhale sonucunda, üzerine ihale yapılan istekliyle anahtar teslimi götürü bedel sözleşme imzalanacaktır.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">10-</b>\r\n      Bu ihalede, işin tamamı için teklif verilecektir.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">11-</b> İstekliler teklif ettikleri bedelin %3’ünden az olmamak üzere kendi belirleyecekleri tutarda geçici teminat vereceklerdir.\r\n\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">12- </b>\r\n      Bu ihalede elektronik eksiltme yapılmayacaktır.\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">13-</b>\r\n    Verilen tekliflerin geçerlilik süresi, ihale tarihinden itibaren <span class=\"idareBilgi\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">150 (YüzElli)</span> takvim günüdür.\r\n\r\n    <br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">14-</b> Konsorsiyum olarak ihaleye teklif\r\n    verilemez.<br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><b xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">15- Diğer hususlar:</b><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><div style=\"width:100%; overflow:auto; height:auto;\" class=\"divIlanOver\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\">\r\n\r\n        İhalede Uygulanacak Sınır Değer Katsayısı (N) : <span class=\"idareBilgi\">1,00</span><br /><span>Teklifi sınır değerin altında kalan isteklilerden Kanunun 38 inci maddesine göre açıklama istenecektir.</span></div><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><div style=\"width:100%; overflow:auto; height:auto;\" class=\"divIlanOver\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><span class=\"idareBilgi\"></span></div>",
+          "istekliAdi": ""
+        },
+        {
+          "id": "7333800",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "a656583d49852b602bed5ce40fa46db79d89c2be87eb49b1245b87597a528ca4",
+          "sozlesmeId": "13153541",
+          "baslik": "BİNA İNŞAATI, ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞLERİ YAPTIRILACAKTIR",
+          "ilanTarihi": "2026-05-12T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>BİNA İNŞAATI, ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞLERİ YAPTIRILACAKTIR</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/339317</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>23.03.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Açık</td></tr><tr><td valign=\"top\"><b>d)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>566.325.840,92 TRY </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>ANKARA İLİ SİNCAN İLÇESİ SARAYCIK MAHALLESİ 6.BÖLGE 2.ETAP 573 ADET KONUT VE 4 ADET DÜKKAN İNŞAATLARI İLE ALTYAPI VE ÇEVRE DÜZENLEMESİ İKMAL İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Ankara</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>210</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">40</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">11</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>8</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>07.05.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">406.900.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>17.05.2026 - 12.12.2026</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">LİVANEL TURİZM İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, İYİ YAPI İNŞAAT MİMARLIK MÜHENDİSLİK EMLAK NAKLİYAT TURİZM ANONİM ŞİRKETİ İş Ortaklığı</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">DÖŞEME MAHALLESİ 60075 SK. BAYSAN IŞ MERKEZI Apt.  NO: 1/407-  SEYHAN/ADANA SEYHAN/ADANA</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "LİVANEL TURİZM İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, İYİ YAPI İNŞAAT MİMARLIK MÜHENDİSLİK EMLAK NAKLİYAT TURİZM ANONİM ŞİRKETİ İş Ortaklığı"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "13153541",
+          "ihaleId": "34b067a94bd23e2648e6a54928716a40595fe1ed3a29578b0e1f37cc4a5bef1b",
+          "yukleniciAdi": "LİVANEL TURİZM İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, İYİ YAPI İNŞAAT MİMARLIK MÜHENDİSLİK EMLAK NAKLİYAT TURİZM ANONİM ŞİRKETİ İş Ortaklığı",
+          "sozlesmeBedeli": "406,900,000.00 TRY",
+          "sozlesmeTarih": "2026-05-07T00:00:00+03:00",
+          "enYuksekTeklif": "544,400,000.00 TRY",
+          "enDusukTeklif": "406,900,000.00 TRY",
+          "yaklasikMaliyet": "566.325.840,92 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/339317",
+            "ihaleAdi": "Ankara İli Sincan İlçesi Saraycık Mahallesi 6.Bölge 2.Etap 573 Adet Konut ve 4 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İkmal İşi",
+            "sozlesmeTarih": "2026-05-07T00:00:00",
+            "sozlesmeBedeli": "406,900,000.00 TRY",
+            "yuklenici": "LİVANEL TURİZM İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ, İYİ YAPI İNŞAAT MİMARLIK MÜHENDİSLİK EMLAK NAKLİYAT TURİZM ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "48373661",
+                "kisimAdi": "Ankara İli Sincan İlçesi Saraycık Mahallesi 6.Bölge 2.Etap 573 Adet Konut ve 4 Adet Dükkan İnşaatları İle Altyapı ve Çevre Düzenlemesi İkmal İşi",
+                "enYuksekTeklif": "544.400.000,00 TRY",
+                "enDusukTeklif": "406.900.000,00 TRY",
+                "yaklasikMaliyet": "566.325.840,92 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 566325840.92
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  },
+  {
+    "item": {
+      "id": "1ee836a6e023848df239a71c5bae89ad9ed6f7e053331820b2e0c9e71338d0c4",
+      "ikn": "2026/427609",
+      "ihaleAdi": "Antalya İli Aksu ve Serik İlçeleri (Aksu Çayı Köprüsü - Belek Kavşağı - Boğazkent Arası) Turizm Yolu ve Oteller Bölgesi Ulaşım Yolları Düzenlemesi İşi",
+      "ihaleDurum": "15",
+      "eIhale": true,
+      "ihaleUsul": "3",
+      "ihaleKapsamAciklama": "4734 Kapsamında",
+      "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+      "idareId": "2529",
+      "ihaleniIdaresiMi": false,
+      "ihaleIlansizMi": true,
+      "ihaleyeDavetEdilenMi": false,
+      "ihaleDetayDokumaniGorsunMu": false,
+      "dokumanIndirenlerGosterilsinMi": false,
+      "sikayetlerGosterilsinMi": false,
+      "teknikSartnamesizDokumanIndirButonuGosterilsinMi": true,
+      "paylasButonuGosterilsinMi": false,
+      "dokumanSayisi": 0,
+      "kismiIhale": false,
+      "yetkiliIdareList": [],
+      "tebligatAlanIstekliList": [
+        "181102",
+        "308688",
+        "553731",
+        "142042",
+        "219",
+        "641194",
+        "200259",
+        "220989"
+      ],
+      "ihaleOzellikList": [
+        {
+          "ihaleOzellik": "TENDER_DETAIL.E_IHALE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.EKONOMIK_MALI_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.IS_DENEYIM_BELGE"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YERLI_ISTEKLI_AVANTAJ"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.YABANCI_ISTEKLI_KATILIM"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.ALT_YUKLENICI"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.MESLEKI_TEKNIK_YETERLIK"
+        },
+        {
+          "ihaleOzellik": "TENDER_DETAIL.FIYAT_FARKI_VERILMESI"
+        }
+      ],
+      "ihaleBilgi": {
+        "ihaleId": "1641c487a4c9625cd8d4b0bee8d95196cb38be768048b3e6145fa54a225aa082",
+        "ihaleAdi": "Antalya İli Aksu ve Serik İlçeleri (Aksu Çayı Köprüsü - Belek Kavşağı - Boğazkent Arası) Turizm Yolu ve Oteller Bölgesi Ulaşım Yolları Düzenlemesi İşi",
+        "idareAdi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "idareId": "2529",
+        "ikn": "2026/427609",
+        "iknYil": "2026",
+        "iknSayi": "427609",
+        "yasaKapsami4734": "1",
+        "ihaleKapsamAciklama": "TENDER_SEARCH.MAIN.PAGEITEM.TENDER_LEGALSCOPE_4734",
+        "ihaleTarihSaat": "12.03.2026 16:00",
+        "ihaleTipiAciklama": "Yapım",
+        "ihaleUsulAciklama": "İhale Usulü: Pazarlık (MD 21 B)",
+        "istisnaUsulAciklama": null,
+        "ihaleDurumAciklama": "Sonuç İlanı Yayımlanmış",
+        "isinYapilacagiYer": "Antalya",
+        "ihaleYeri": "Toplu Konut İdaresi Başkanlığı (Toki) - Toplantı Salonu",
+        "itirazenSikayetBasvuruBedeli": "-",
+        "okas": "452331202 - Cadde ve sokak yapım işleri",
+        "ihaleDurum": "15",
+        "iptalTarihi": null,
+        "iptalNedeni": null,
+        "iptalMadde": null,
+        "ihaleTarihSaatList": [
+          {
+            "ihaleTarihiEtiket": "DATASYNC.IHALE_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "12.03.2026 16:00"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.ILK_TEKLIF_ICIN_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": "12.03.2026 10:30"
+          },
+          {
+            "ihaleTarihiEtiket": "DATASYNC.SON_TEKLIF_TARIH_SAAT",
+            "ihaleTarihiEtiketDegeri": ""
+          }
+        ]
+      },
+      "ihtiyacKalemiOkasList": [
+        {
+          "adi": "Cadde ve sokak yapım işleri",
+          "kodu": "452331202",
+          "koduAdi": "452331202 - Cadde ve sokak yapım işleri"
+        }
+      ],
+      "ilanList": [
+        {
+          "id": "7039153",
+          "ilanTip": "4",
+          "ilanTipAciklama": null,
+          "status": "6",
+          "ihaleId": "08ebe9069584d09bea31822186e7080e0b1eb30e6fc5d41e738981f1abd19e18",
+          "sozlesmeId": "12856696",
+          "baslik": "ANTALYA İLİ AKSU VE SERİK İLÇELERİ (AKSU ÇAYI KÖPRÜSÜ - BELEK KAVŞAĞI - BOĞAZKENT ARASI) TURİZM YOLU VE OTELLER BÖLGESİ ULAŞIM YOLLARI DÜZENLEMESİ İŞİ",
+          "ilanTarihi": "2026-03-26T00:00:00",
+          "veriHtml": "<center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>SONUÇ İLANI</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>ANTALYA İLİ AKSU VE SERİK İLÇELERİ (AKSU ÇAYI KÖPRÜSÜ - BELEK KAVŞAĞI - BOĞAZKENT ARASI) TURİZM YOLU VE OTELLER BÖLGESİ ULAŞIM YOLLARI DÜZENLEMESİ İŞİ</b></center><center xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><b>TOPLU KONUT İDARESİ BAŞKANLIĞI</b></center><br xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\" /><table width=\"100%\" class=\"ilanTabloStil\" xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions\"><tr><td width=\"220\"><b>İhale kayıt numarası</b></td><td width=\"1%\"><b>:</b></td><td><b>2026/427609</b></td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>1- İhalenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>12.03.2026</td></tr><tr><td><b>b)</b> Türü\r\n        </td><td>:</td><td>\r\n          Yapım işi\r\n        </td></tr><tr><td><b>c)</b> Usulü\r\n        </td><td>:</td><td>Pazarlık (MD 21 B)</td></tr><tr><td valign=\"top\"><b>d)</b> Pazarlık Usulünün Seçilme <br />\r\n              Gerekçesi\r\n            </td><td valign=\"top\">:</td><td valign=\"top\">Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya yapım tekniği açısından özellik arz eden \n                                                veya yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare \n                                                tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.</td></tr><tr><td valign=\"top\"><b>e)</b> Yaklaşık Maliyeti\r\n            </td><td valign=\"top\">:</td><td>1.208.229.131,39\r\n                  TRY\r\n                -->\r\n            </td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>2- İhale konusu yapım işinin</b></span></td></tr><tr><td><b>a)</b> Adı\r\n        </td><td>:</td><td>ANTALYA İLİ AKSU VE SERİK İLÇELERİ (AKSU ÇAYI KÖPRÜSÜ - BELEK KAVŞAĞI - BOĞAZKENT ARASI) TURİZM YOLU VE OTELLER BÖLGESİ ULAŞIM YOLLARI DÜZENLEMESİ İŞİ</td></tr><tr><td width=\"220\" valign=\"top\"><b>b)</b> Yapılacağı yer\r\n        </td><td valign=\"top\">:</td><td>Antalya</td></tr><tr><td width=\"220\" valign=\"top\"><b>c)</b> Süresi\r\n        </td><td valign=\"top\">:</td><td>150</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>3- Teklifler</b></span></td></tr><tr><td valign=\"top\"><b>a)</b> Dokümanı EKAP üzerinden <br />\r\n          e-imza kullanarak indiren sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">8</td></tr><tr><td valign=\"top\"><b>b)</b> Toplam Teklif Sayısı\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">7</td></tr><tr><td><b>c)</b> Toplam Geçerli Teklif Sayısı\r\n        </td><td>:</td><td>7</td></tr><tr><td valign=\"top\"><b>d)</b> Yerli istekli lehine <br />\r\n          fiyat avantajı uygulaması\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">\r\n            Uygulanmıştır / % 15</td></tr><tr><td colspan=\"3\"><span class=\"ilanBaslik\"><b>4- Sözleşmenin</b></span></td></tr><tr><td><b>a)</b> Tarihi\r\n        </td><td>:</td><td>24.03.2026</td></tr><tr><td valign=\"top\"><b>b)</b> Bedeli\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">1.099.500.000,00 TRY\r\n          </td></tr><tr><td><b>c)</b> Süresi\r\n        </td><td>:</td><td>29.03.2026 - 25.08.2026</td></tr><tr><td valign=\"top\"><b>d)</b> Yüklenicisi\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">FÖY İNŞAAT TAAHHÜT VE TURİZM SANAYİ TİCARET ANONİM ŞİRKETİ</td></tr><tr><td valign=\"top\"><b>e)</b> Yüklenicinin uyruğu\r\n        </td><td valign=\"top\">:</td><td valign=\"top\">Türkiye</td></tr><tr><td valign=\"top\"><b>f)</b> Yüklenicinin adresi\r\n          </td><td valign=\"top\">:</td><td valign=\"top\">BURHANİYE MAH.NAGEHAN SOKAĞI NO:7 K:2 ÜSKÜDAR/İSTANBUL ÜSKÜDAR/İSTANBUL</td></tr></table>\r\n    Kamuoyuna saygıyla duyurulur.\r\n  ",
+          "istekliAdi": "FÖY İNŞAAT TAAHHÜT VE TURİZM SANAYİ TİCARET ANONİM ŞİRKETİ"
+        }
+      ],
+      "sozlesmeBilgiList": [
+        {
+          "id": "12856696",
+          "ihaleId": "352e0ee53010e2a725018c4da24c328d466fd072527aed89f98b0b4afbe6ee2a",
+          "yukleniciAdi": "FÖY İNŞAAT TAAHHÜT VE TURİZM SANAYİ TİCARET ANONİM ŞİRKETİ",
+          "sozlesmeBedeli": "1,099,500,000.00 TRY",
+          "sozlesmeTarih": "2026-03-24T00:00:00+03:00",
+          "enYuksekTeklif": "1,302,500,000.00 TRY",
+          "enDusukTeklif": "1,099,500,000.00 TRY",
+          "yaklasikMaliyet": "1.208.229.131,39 TRY",
+          "yabanciYaklasikMaliyet": "-",
+          "fesihString": "Yok",
+          "tasfiyeTransferString": "Yok",
+          "kisimItemDto": {
+            "ikn": "2026/427609",
+            "ihaleAdi": "Antalya İli Aksu ve Serik İlçeleri (Aksu Çayı Köprüsü - Belek Kavşağı - Boğazkent Arası) Turizm Yolu ve Oteller Bölgesi Ulaşım Yolları Düzenlemesi İşi",
+            "sozlesmeTarih": "2026-03-24T00:00:00",
+            "sozlesmeBedeli": "1,099,500,000.00 TRY",
+            "yuklenici": "FÖY İNŞAAT TAAHHÜT VE TURİZM SANAYİ TİCARET ANONİM ŞİRKETİ",
+            "kisimList": [
+              {
+                "id": "48689422",
+                "kisimAdi": "Antalya İli Aksu ve Serik İlçeleri (Aksu Çayı Köprüsü - Belek Kavşağı - Boğazkent Arası) Turizm Yolu ve Oteller Bölgesi Ulaşım Yolları Düzenlemesi İşi",
+                "enYuksekTeklif": "1.302.500.000,00 TRY",
+                "enDusukTeklif": "1.099.500.000,00 TRY",
+                "yaklasikMaliyet": "1.208.229.131,39 TRY",
+                "yabanciYaklasikMaliyet": null
+              }
+            ]
+          },
+          "fesihItemDto": null,
+          "tasfiyeTransferItemDto": null,
+          "sozlesmeDevirDto": null,
+          "sozlesmeBedeliDegeri": 0.0,
+          "enYuksekTeklifDegeri": 0.0,
+          "enDusukTeklifDegeri": 0.0,
+          "yaklasikMaliyetDegeri": 1208229131.39
+        }
+      ],
+      "islemlerKuralSeti": {
+        "dokumanIndirmisMi": false,
+        "teklifteBulunmusMu": false,
+        "teklifVerilebilirMi": false,
+        "fiyatDisiUnsurVarMi": false,
+        "sozlesmeImzaliMi": false,
+        "itirazenESikayetMi": false,
+        "idareyeSikayetMi": false,
+        "eIhaleMi": true,
+        "idareKendiIhaleMi": false,
+        "ilanDuzeltmeIlani": true,
+        "eEksiltmeYapilacakMi": false,
+        "sikayetDilekceVarMi": false,
+        "enAzBirSozlesmeImzaliMi": false
+      },
+      "idare": {
+        "id": "2529",
+        "adi": "TOPLU KONUT İDARESİ BAŞKANLIĞI",
+        "kod1": null,
+        "kod2": null,
+        "telefon": "03125652000",
+        "fax": "3122667748",
+        "ustIdare": "",
+        "enUstIdareKod": "61",
+        "enUstIdareAdi": "5018 Kapsamı Dışındaki Diğer İdareler",
+        "idareAramaKodu": "2529",
+        "il": {
+          "id": "251",
+          "adi": "ANKARA"
+        },
+        "ilce": {
+          "id": "1183",
+          "ilceAdi": "ÇANKAYA"
+        }
+      }
+    }
+  }
+]
