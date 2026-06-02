@@ -374,7 +374,7 @@ class EKAPClient:
             "ihaleUsulAltIdList": tender_sub_methods or [],
             "ihaleIlIdList": provinces or [],
             "ihaleDurumIdList": tender_statuses or [],
-            "idareIdList": authority_ids or [],
+            "idareKodList": authority_ids or [],
             "ihaleIlanTuruIdList": announcement_types or [],
             "teklifTuruIdList": proposal_types or [],
             "asiriDusukTeklifIdList": [],
